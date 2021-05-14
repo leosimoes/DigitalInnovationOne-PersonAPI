@@ -1,0 +1,5 @@
+Lombok
+Install plugin
+You also have to have enabled "Enable annotation processing" in Settings -> Build -> Compiler -> Annotation Processor
+
+Aula 10 - 8:17
